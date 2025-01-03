@@ -97800,7 +97800,7 @@ const b9e = () => {
                     I.jsx("div", {
                       className: "",
                       children: I.jsx("a", {
-                        href: "https://sorojins-organization.gitbook.io/digitalbox-ai",
+                        href: "https://docs.digitalboxai.com",
                         target: "_blank",
                         className: "launchAction",
                         rel: "noreferrer",
@@ -97812,7 +97812,7 @@ const b9e = () => {
                       }),
                     }),
                     I.jsx(n3, {
-                      href: "https://digital-box-ai-app.vercel.app/",
+                      href: "https://app.digitalboxai.com",
                       children: I.jsx("button", {
                         className: "launchBtn",
                         children: "Purchase Clusters",
@@ -98072,7 +98072,7 @@ const b9e = () => {
                 ],
               }),
               I.jsx(n3, {
-                href: "https://digital-box-ai-app.vercel.app/",
+                href: "https://app.digitalboxai.com",
                 children: I.jsx("div", {
                   className: "mx-6 mt-10",
                   children: I.jsx("button", {
@@ -98105,7 +98105,7 @@ const b9e = () => {
                       className: "flex items-center gap-6",
                       children: [
                         I.jsx("a", {
-                          href: "https://sorojins-organization.gitbook.io/digitalbox-ai",
+                          href: "https://docs.digitalboxai.com",
                           target: "_blank",
                           className: "launchAction",
                           rel: "noreferrer",
