@@ -84287,49 +84287,13 @@ const D7e = new j2e({
       id: 1,
       img: "/images/social-x.png",
       icon: Y7e,
-      href: "https://x.com/Digitalabs_AI",
-    },
-    {
-      id: 2,
-      img: "/images/social-tele-an.png",
-      icon: K7e,
-      href: "https://t.me/Digitalabs_AI",
+      href: "https://x.com/Digita_Box_AI",
     },
     {
       id: 3,
       img: "/images/social-tele-chat.png",
       icon: Q7e,
-      href: "https://t.me/Digitalabs_Chat",
-    },
-    {
-      id: 4,
-      img: "/images/social-galxe.png",
-      icon: G7e,
-      href: "https://app.galxe.com/quest/LAfGGmZezLyaeUQZGLp4fb",
-    },
-    {
-      id: 5,
-      img: "/images/social-discord.png",
-      icon: W7e,
-      href: "https://discord.gg/digitalabs",
-    },
-    {
-      id: 6,
-      img: "/images/social-medium.png",
-      icon: q7e,
-      href: "https://digitalabs.medium.com",
-    },
-    {
-      id: 7,
-      img: "/images/social-youtube.png",
-      icon: X7e,
-      href: "https://www.youtube.com/@Digitalabs_AI",
-    },
-    {
-      id: 8,
-      img: "/images/social-zealy.png",
-      icon: Z7e,
-      href: "https://zealy.io/cw/digitalabs",
+      href: "https://t.me/Digita_Box_AI",
     },
   ],
   J7e = () =>
@@ -84394,7 +84358,7 @@ const D7e = new j2e({
         I.jsx("p", {
           className:
             "text-common absolute bottom-4 left-[50%] translate-x-[-50%] text-base",
-          children: "[ 2024 / copyright © Digitalabs ]",
+          children: "[ 2024 / copyright © Digital Box ]",
         }),
         I.jsxs("div", {
           className: "scrollDownBtn !absolute bottom-10 right-6",
@@ -84500,7 +84464,7 @@ const D7e = new j2e({
                         children: I.jsx("p", {
                           className: "text-[#818181]",
                           children: `
-        By this, Digitalabs enables users to virtualize cluster ownership through NFTs, integrating them into the ecosystem to enhance passive income and earn additional rewards from the system. `,
+        By this, Digital Box enables users to virtualize cluster ownership through NFTs, integrating them into the ecosystem to enhance passive income and earn additional rewards from the system. `,
                         }),
                       }),
                     ],
@@ -84615,7 +84579,7 @@ const D7e = new j2e({
                         children: I.jsx("p", {
                           className: "text-[#818181]",
                           children: `
-        Digitalabs offer a Referral Program with three tiers, providing up to 10% commission. Participants can earn escalating rewards by referring others, enhancing their income while contributing to platform growth.`,
+        Digital Box offer a Referral Program with three tiers, providing up to 10% commission. Participants can earn escalating rewards by referring others, enhancing their income while contributing to platform growth.`,
                         }),
                       }),
                     ],
@@ -97828,7 +97792,7 @@ const b9e = () => {
                   ],
                 }),
                 I.jsx("div", {
-                  children: I.jsx("img", { src: "/logo/logo-1.svg", alt: "" }),
+                  children: I.jsx("img", { src: "/logo/logo.png", alt: "" }),
                 }),
                 I.jsxs("div", {
                   className: "flex flex-1 items-start justify-end gap-8",
@@ -97836,7 +97800,7 @@ const b9e = () => {
                     I.jsx("div", {
                       className: "",
                       children: I.jsx("a", {
-                        href: "https://docs.digitalabs.ai",
+                        href: "https://sorojins-organization.gitbook.io/digitalbox-ai",
                         target: "_blank",
                         className: "launchAction",
                         rel: "noreferrer",
@@ -97848,7 +97812,7 @@ const b9e = () => {
                       }),
                     }),
                     I.jsx(n3, {
-                      href: "https://cluster.digitalabs.ai/",
+                      href: "https://digital-box-ai-app.vercel.app/",
                       children: I.jsx("button", {
                         className: "launchBtn",
                         children: "Purchase Clusters",
@@ -97937,7 +97901,7 @@ const b9e = () => {
         }),
         I.jsx("p", {
           className: "text-common text-center text-xs font-medium uppercase",
-          children: "[ 2024 / copyright © Digitalabs ]",
+          children: "[ 2024 / copyright © DigitalBox ]",
         }),
       ],
     }),
@@ -98016,7 +97980,7 @@ const b9e = () => {
     {
       image: "/mobile/core/img1.png",
       title: "Cluster Virtualization",
-      des: "By this, Digitalabs enables users to virtualize cluster ownership through NFTs, integrating them into the ecosystem to enhance passive income and earn additional rewards from the system.",
+      des: "By this, Digital Box enables users to virtualize cluster ownership through NFTs, integrating them into the ecosystem to enhance passive income and earn additional rewards from the system.",
     },
     {
       image: "/mobile/core/img2.png",
@@ -98026,7 +97990,7 @@ const b9e = () => {
     {
       image: "/mobile/core/img3.png",
       title: "Referral Program",
-      des: "Digitalabs offer a Referral Program with three tiers, providing up to 10% commission. Participants can earn escalating rewards by referring others, enhancing their income while contributing to platform growth.",
+      des: "Digital Box offer a Referral Program with three tiers, providing up to 10% commission. Participants can earn escalating rewards by referring others, enhancing their income while contributing to platform growth.",
     },
     {
       image: "/mobile/core/img4.png",
@@ -98053,7 +98017,7 @@ const b9e = () => {
             children: I.jsx("div", {
               className: "flex w-full items-center justify-between",
               children: I.jsx("img", {
-                src: "/logo/logo-1.svg",
+                src: "/logo/logo.png",
                 className: "max-w-[132px]",
                 alt: "",
               }),
@@ -98108,7 +98072,7 @@ const b9e = () => {
                 ],
               }),
               I.jsx(n3, {
-                href: "https://cluster.digitalabs.ai/",
+                href: "https://digital-box-ai-app.vercel.app/",
                 children: I.jsx("div", {
                   className: "mx-6 mt-10",
                   children: I.jsx("button", {
@@ -98141,7 +98105,7 @@ const b9e = () => {
                       className: "flex items-center gap-6",
                       children: [
                         I.jsx("a", {
-                          href: "https://docs.digitalabs.ai",
+                          href: "https://sorojins-organization.gitbook.io/digitalbox-ai",
                           target: "_blank",
                           className: "launchAction",
                           rel: "noreferrer",
@@ -99387,7 +99351,7 @@ E5.renderStatic = E5.rewind;
 const SOe = ({
     title: e = "Template Dapp ReactJs",
     description:
-      t = "Digitalabs is a next-generation decentralized cloud service and AI training platform that provides on-demand, scalable computing power through a globally distributed network of GPU/CPU clusters.",
+      t = "Digital Box is a next-generation decentralized cloud service and AI training platform that provides on-demand, scalable computing power through a globally distributed network of GPU/CPU clusters.",
     thumbnail: n = "/thumbnail.png",
     url: r = ((o) =>
       (o = window == null ? void 0 : window.location) == null
